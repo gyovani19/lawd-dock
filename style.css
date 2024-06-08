@@ -25,9 +25,9 @@ svg{
 :root{
   /* Light Theme Variables */
   --color-text-light: #000000;
-  --color-background-light: #5c1199;
-  --color-pink-light: #ff00ff;
-  --color-green-light: #7AD0AC;
+  --color-background-light: #9a23fc;
+  --color-pink-light: #29c8f0;
+  --color-green-light: #2bc276;
   --color-blue-light: #8395CD;
 
   /* Dark Theme Variables */
