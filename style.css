@@ -25,8 +25,8 @@ svg{
 :root{
   /* Light Theme Variables */
   --color-text-light: #333332;
-  --color-background-light: #FAF4E5;
-  --color-pink-light: #e5a1aa;
+  --color-background-light: #693594;
+  --color-pink-light: #7c217c;
   --color-green-light: #7AD0AC;
   --color-blue-light: #8395CD;
 
@@ -410,7 +410,7 @@ svg{
 }
 
 .hero-second-subheading{
-  font-size: 32px;
+  font-size: 14px;
   text-transform: uppercase;
   color: var(--color-text);
 }

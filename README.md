@@ -1,17 +1,14 @@
-# Recreation of Award-winning Bokoko33's Portfolio
 
-**[Live demo](https://abigail-bloom-portolio-bokoko33.vercel.app/)**
+## Descrição do Projeto
+Este projeto foi desenvolvido com base em uma vencedor de um corcurso de animações na WEB. A ideia é recriar a sala da LAWD e possibilitar um tour por alguns de nossos projetos, inciando pelo WebGarden.
 
-This repo contains code of a recreation of **[Bokoko33's award-winning website](https://bokoko33.me/)**. The original creator asks to please not use this _exact_ idea,
-but feel free to use it as a starting point/inspiration.
+As principais tecnologias utilizadas aqui são JavaScript, Blender, DracoJS, ThreeJS e Vite.
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
 
-## Instructions
-
+## Intruções para rodar:
 ```
 npm install
 npm run dev
 ```
 
-You can use the "network" dev server running and open it on your phone if your computer is connected to the same internet.
+
